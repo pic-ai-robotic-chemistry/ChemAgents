@@ -1,0 +1,12 @@
+<experiment id="exp001">
+    <Type>Characterizing azobenzene molecules by infrared spectroscopy</Type>
+    <Procedure>
+        <Step number="1">Retrieve the rack from the sample rack station.</Step>
+        <Step number="2">Use the solid station to add 0.18 g of azobenzene.</Step>
+        <Step number="3">Use the liquid station to add 8 g of dichloromethane.</Step>
+        <Step number="4">Use the magnetic stirring station to stir the mixture at 500 rpm for 10 minutes at 25 ℃.</Step>
+        <Step number="5">Use the sample preparation station to make the sample of azobenzene.</Step>
+        <Step number="6">Use the infrared spectroscopy station to test the infrared spectrum of the sample.</Step>
+        <Step number="7">Place the rack into the sample rack station.</Step>
+    </Procedure>
+</experiment>

@@ -1,0 +1,14 @@
+<experiment id="exp001">
+    <Type>Synthesizing graphitic carbon nitrides and measuring photocatalytic hydrogen production by gas chromatography</Type>
+    <Procedure>
+        <Step number="1">Retrieve the rack from the sample rack station.</Step>
+        <Step number="2">Use the solid station to add 5 g of dicyandiamide.</Step>
+        <Step number="3">Use the calcination station to heat the sample to 500 ℃ for 3 hours with a heating rate of 2 ℃/min.</Step>
+        <Step number="4">Use the liquid station to add 1 g of triethanolamine.</Step>
+        <Step number="5">Use the liquid station to add 9 g of H2PtCl6 solution.</Step>
+        <Step number="6">Use the encapsulation station to encapsulate the reaction vessel under vacuum.</Step>
+        <Step number="7">Use the photocatalytic station to perform photocatalytic test for 1 hour.</Step>
+        <Step number="8">Use the gas chromatography station to detect the produced gas.</Step>
+        <Step number="9">Place the rack into the sample rack station.</Step>
+    </Procedure>
+</experiment>

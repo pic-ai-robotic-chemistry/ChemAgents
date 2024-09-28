@@ -1,0 +1,19 @@
+<experiment id="exp001">
+    <Type>Synthesizing bismuth oxyhalides and measuring photocatalytic degradation of tetracycline by UV-vis spectroscopy</Type>
+    <Procedure>
+        <Step number="1">Retrieve the rack from the sample rack station.</Step>
+        <Step number="2">Use the solid station to add 0.195 g of Bi(NO3)3•5H2O.</Step>
+        <Step number="3">Use the liquid station to add 10 g of deionized water.</Step>
+        <Step number="4">Use the magnetic stirring station to stir the mixture at 600 rpm for 10 minutes at 25 ℃.</Step>
+        <Step number="5">Use the solid station to add 0.035 g NaCl.</Step>
+        <Step number="6">Use the magnetic stirring station to stir the mixture at 600 rpm for 1 hour at 25 ℃.</Step>
+        <Step number="7">Use the drying station to dry the sample at 60 ℃ for 6 hours.</Step>
+        <Step number="8">Use the solid station to add 0.005 g of BiOCl.</Step>
+        <Step number="9">Use the liquid station to add 10 g of tetracycline aqueous solution.</Step>
+        <Step number="10">Use the magnetic stirring station to stir the mixture at 600 rpm for 30 minutes at 25 ℃.</Step>
+        <Step number="11">Use the photocatalytic station to perform photocatalytic test for 30 minutes.</Step>
+        <Step number="12">Use the centrifuge station to centrifuge at 5000 rpm for 10 minutes.</Step>
+        <Step number="13">Use the UV-vis spectroscopy station to test the sample.</Step>
+        <Step number="14">Place the rack into the sample rack station.</Step>
+    </Procedure>
+</experiment>

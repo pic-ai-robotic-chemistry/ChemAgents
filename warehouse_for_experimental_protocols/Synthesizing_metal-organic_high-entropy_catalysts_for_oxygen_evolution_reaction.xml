@@ -1,0 +1,19 @@
+<experiment id="exp001">
+    <Type>Synthesizing metal-organic high-entropy catalysts for oxygen evolution reaction</Type>
+    <Procedure>
+        <Step number="1">Retrieve the rack from the sample rack station.</Step>
+        <Step number="2">Use the liquid station to add 2 g of cobalt acetate solution.</Step>
+        <Step number="3">Use the liquid station to add 2 g of nickel acetate solution.</Step>
+        <Step number="4">Use the liquid station to add 2 g of iron acetate solution.</Step>
+        <Step number="5">Use the liquid station to add 2 g of manganese acetate solution.</Step>
+        <Step number="6">Use the liquid station to add 2 g of copper acetate solution.</Step>
+        <Step number="7">Use the liquid station to add 5 g phthalic acid solution.</Step>
+        <Step number="8">Use the magnetic stirring station to stir the mixture at 500 rpm for 24 hours at 25 ℃.</Step>
+        <Step number="9">Use the centrifuge station to centrifuge at 5000 rpm for 3 minutes.</Step>
+        <Step number="10">Use the aspiration station to aspirate the liquid above the sample after centrifugation.</Step>
+        <Step number="11">Use the liquid station to add 8 g Nafion solution.</Step>
+        <Step number="12">Use the sample preparation station to make the sample of MO-HEC.</Step>
+        <Step number="13">Use the electrocatalytic station to perform electrochemical tests.</Step>
+        <Step number="14">Place the rack into the sample rack station.</Step>
+    </Procedure>
+</experiment>

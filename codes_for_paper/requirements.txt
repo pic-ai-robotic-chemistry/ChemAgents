@@ -1,0 +1,5 @@
+langchain_community==0.2.4
+langchain_core==0.2.5
+langchain_openai==0.1.8
+langgraph==0.0.65
+typing_extensions==4.12.2

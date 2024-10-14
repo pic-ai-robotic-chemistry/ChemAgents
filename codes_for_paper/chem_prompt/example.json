@@ -1,0 +1,22 @@
+[
+    {
+        "HumanMessage": {
+            "content": "What's your name?"
+        }
+    },
+    {
+        "AIMessage": {
+            "content": "我的名字是小来"
+        }
+    },
+    {
+        "HumanMessage": {
+            "content": "What's my name?"
+        }
+    },
+    {
+        "AIMessage": {
+            "content": "你的名字是科大"
+        }
+    }
+]

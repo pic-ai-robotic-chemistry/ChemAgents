@@ -9,7 +9,7 @@ for the article **A multi-agent-driven robotic AI chemist enabling autonomous ch
 * `warehouse_for_experimental_protocols` — the experimental protocols used
 * `warehouse_for_pretrained_models` — examples of pre-trained machine learning models
 
-### Other Information
+## Other Information
 
 ChemAgents relies on LangChain’s [LangGraph](https://www.langchain.com/langgraph) for seamless integration of LLMs with user-defined custom tools.
 

@@ -7,8 +7,20 @@ from langgraph.prebuilt import ToolNode, tools_condition
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from chem_memory.memory import memory
 
+# Define the Agent class to encapsulate logic for interacting with a language model and a state graph
 class Agent():
     def __init__(self, llm, tools_agent, node_name, system_prompt, example_prompt, thread_id, visualize=False):
+        """
+        Initialize the Agent object.
+        Args:
+            llm: Language model instance.
+            tools_agent: Tools to be integrated with the language model.
+            node_name: Name of the starting node in the state graph.
+            system_prompt: System-level prompt for guiding the language model.
+            example_prompt: List of example prompts to include in the context.
+            thread_id: Identifier for managing threading configurations.
+            visualize: Boolean to determine whether to visualize the state graph.
+        """
         self.llm = llm
         self.tools = tools_agent
         self.system_prompt = system_prompt
@@ -79,8 +91,6 @@ class Agent():
 
     def vis_graph(self):
         png_data = self.graph.get_graph(xray=True).draw_mermaid_png()
-        # display(Image(png_data))
-        # 我的路径出错，改为绝对路径可以!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-        with open("C:/Users/ASUS/Desktop/GPT/chem_langgraph620/chem_langgraph/vis_graph/graph_visualization" + self.node_name + ".png", "wb") as f:
+        with open("C:/Users/ASUS/Desktop/GPT/chem_langgraph/vis_graph/graph_visualization" + self.node_name + ".png", "wb") as f:
             f.write(png_data)
         print("Graph visualization saved as graph_visualization.png")

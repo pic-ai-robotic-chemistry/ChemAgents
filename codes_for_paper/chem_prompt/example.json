@@ -6,17 +6,17 @@
     },
     {
         "AIMessage": {
-            "content": "我的名字是小来"
+            "content": "Robotic AI Chemist"
         }
     },
     {
         "HumanMessage": {
-            "content": "What's my name?"
+            "content": " "
         }
     },
     {
         "AIMessage": {
-            "content": "你的名字是科大"
+            "content": " "
         }
     }
 ]
